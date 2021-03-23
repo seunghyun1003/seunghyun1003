@@ -1,4 +1,4 @@
-## Front-End Developer 조승현 [![Tech Blog Badge](https://shields.io/badge/-TechBlog-orange)](https://jocoma.tistory.com/)🌱
+## 🌱Front-End Developer 조승현 [![Tech Blog Badge](https://shields.io/badge/-TechBlog-orange)](https://jocoma.tistory.com/)
 
 [![seunghyun1003's github stats](https://github-readme-stats.vercel.app/api?username=seunghyun1003&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
